@@ -4,6 +4,7 @@
   "description": "Practice less for geekwise class",
   "main": "gulpfile.js",
   "dependencies": {
+    "bootstrap": "^3.3.6",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-less": "^3.1.0",
